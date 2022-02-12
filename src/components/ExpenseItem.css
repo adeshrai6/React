@@ -23,14 +23,13 @@
     color: #3a3a3a;
     font-size: 1rem;
     flex: 1;
-    margin: 0 .3rem;
+    margin: .8rem;
     color: white;
   }
   
   .expense-item__price {
     font-size: 1rem;
     font-weight: bold;
-    text-align: center;
     color: white;
     background-color: #40005d;
     border: 1px solid white;
