@@ -58,7 +58,7 @@ const submitHandler = (event) => {
             <label>Date</label>
             <input type='date' value={enteredDate} min="2022-02-14" max="2022-12-30" onChange={dateChangeHandler} />
         </div>
-      Ï</div>
+      </div>
         <div className="new-expense__actions">
             <button type="submit">Add Expense</button>
         </div>
